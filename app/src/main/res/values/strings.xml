@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">M.A.D. Replacement</string>
+    <string name="label_letter_from_camp">Letter from Camp</string>
+    
+    <string name="mad_lib_intent_strings_base">edu.devilsadvocate.madreplacement.STRING_%1$d</string>
+    
+    <string name="enter_word_hint">Enter Word&#8230;</string>
+    <string name="next_word_string">Next Word</string>
+    <string name="submit_words_string">Submit</string>
+    <string name="noun">Noun</string>
+    <string name="adjective">Adjective</string>
+    <string name="relative">Relative</string>
+    <string name="name_of_person_in_room">Name of Person in Room</string>
+    <string name="verb_end_in_ed">Verb Ending in "ed"</string>
+    <string name="verb_end_in_ing">Verb Ending in "ing"</string>
+    <string name="plural_noun">Noun (Plural)</string>
+    <string name="adverb">Adverb</string>
+    <string name="verb">Verb</string>
+    <string name="body_part">Body Part</string>
+    <string-array name="letter_from_camp_string_list">
+        <item>Dear\u0020</item>
+        <item>{{1}}</item>
+        <item>, \n</item>
+        <item>I am having a(n)\u0020</item>
+        <item>{{2}}</item>
+        <item>\u0020time at camp. The counselor is\u0020</item>
+        <item>{{3}}</item>
+        <item>\u0020and the food is\u0020</item>
+        <item>{{4}}</item>
+        <item>. I met\u0020</item>
+        <item>{{5}}</item>
+        <item>\u0020and we became\u0020</item>
+        <item>{{6}}</item>
+        <item>\u0020friends. Unfortunately,\u0020</item>
+        <item>{{5}}</item>
+        <item>\u0020is\u0020</item>
+        <item>{{7}}</item>
+        <item>\u0020and I\u0020</item>
+        <item>{{8}}</item>
+        <item>\u0020my\u0020</item>
+        <item>{{9}}</item>
+        <item>\u0020so we couldn\'t go\u0020</item>
+        <item>{{10}}</item>
+        <item>\u0020like everybody else. I need more\u0020</item>
+        <item>{{11}}</item>
+        <item>\u0020and a\u0020</item>
+        <item>{{12}}</item>
+        <item>\u0020sharpener, so please\u0020</item>
+        <item>{{13}}</item>
+        <item>\u0020</item>
+        <item>{{14}}</item>
+        <item>\u0020more when you\u0020</item>
+        <item>{{15}}</item>
+        <item>\u0020back. \n</item>
+        <item>Your\u0020</item>
+        <item>{{16}}</item>
+        <item>, \n</item>
+        <item>{{17}}</item>
+    </string-array>
+</resources>
